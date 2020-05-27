@@ -58,7 +58,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>launch.Main</mainClass>
+                            <mainClass>src.main.java.launch.Main</mainClass>
                             <name>webapp</name>
                         </program>
                     </programs>
